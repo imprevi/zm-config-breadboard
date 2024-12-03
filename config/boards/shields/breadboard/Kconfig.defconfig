@@ -1,0 +1,6 @@
+if SHIELD_BREADBOARD
+
+config ZMK_KEYBOARD_NAME
+    default "breadboard"
+
+endif
